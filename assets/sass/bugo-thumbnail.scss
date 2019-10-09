@@ -9,6 +9,8 @@
  **/
 
 @import "bugo-thumbnail-vars";
+@debug "Loading Bugo Thumbnail Module SASS";
+@import "custom-variables";
 
 .thumbnail {
   margin-bottom: var(--global-margin);
